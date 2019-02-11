@@ -1,0 +1,40 @@
+
+/*Title*/
+.title {
+    text-align: center;
+}
+
+/*Input Field*/
+
+.input {
+    border: black solid 2px;
+    height: 5rem;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: right;
+    width: 100%;
+}
+
+.input-row {
+    margin-right: 0;
+    margin-left: 0;
+ }
+.input-col{
+    padding-left: 0;
+    padding-right: 0;
+}
+.input-textFIeld {
+    width: 100%;
+    text-align: right;
+}
+
+.result {
+    text-align: right;
+}
+
+.bottons {
+
+    width: 100%;
+    padding: 0;
+
+}
